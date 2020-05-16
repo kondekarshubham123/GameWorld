@@ -1,15 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to GameWorld
 
-You can use the [editor on GitHub](https://github.com/kondekarshubham123/GameWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this repo GameWorld, you will get games developed by using python pygame modules/  
 
-### Markdown
+### Steps
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Steps to run code !!
 
 ```markdown
-Syntax highlighted code block
+Step 1:
+
+git clone https://github.com/kondekarshubham123/GameWorld.git
+
+Step 2:
+
+Install pygame Module
+
+Step 3:
+
+Open Game Folder and enjoy :-);
 
 # Header 1
 ## Header 2
